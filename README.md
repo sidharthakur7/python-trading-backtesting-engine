@@ -35,5 +35,5 @@ It simulates buy and sell signals on historical stock data and evaluates strateg
 - Improve strategy logic
 
 📎 Author
-
-Your Name
+Sidharth Thakur
+Aspiring Python Developer | Trading System Enthusiast
